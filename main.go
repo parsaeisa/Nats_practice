@@ -1,4 +1,4 @@
-package Nats_practice
+package main
 
 import (
 	"fmt"
